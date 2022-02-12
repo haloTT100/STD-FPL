@@ -1,0 +1,10 @@
+{
+  "Name": "FPL",
+  "Author": "haloTT100",
+  "Version": "1.0.0",
+  "Description": "Simple mod to see what is the most profitable fish to sell in Stardew Valley",
+  "UniqueID": "haloTT100.FPL",
+  "EntryDll": "FPL.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
