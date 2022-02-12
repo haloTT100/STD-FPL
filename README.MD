@@ -1,0 +1,1 @@
+Simple mod to see what is the most profitable fish to sell in Stardew Valley
